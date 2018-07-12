@@ -5,7 +5,7 @@ Ce dépôt est à utilisé à titre d'exemple. Il est destiné à montrer l'util
 
 ## Organisation en branches
 
-![enter image description here](	)
+![enter image description here](https://www.red-gate.com/simple-talk/wp-content/uploads/imported/2003-582fa280-b852-4016-94c0-fdc69d693914.jpeg)
 
 
 Ce dépôt utilise la même organisation en branche que le schéma ci-dessus. 3 branches sont présentent à titre d'exemple de stratégie pour le développement logiciel :
