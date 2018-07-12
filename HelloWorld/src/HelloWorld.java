@@ -22,6 +22,7 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World!");
         System.out.println("Hi AFPA38, I made a big change in that code!!!");
+        System.out.println("Especially for Regis and Marc");
     }
 
 }
